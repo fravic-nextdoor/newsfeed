@@ -111,11 +111,31 @@
           "body": "Obviously 1 horse-sized duck.",
           "parentId": null
         },
-        { "id": 35, "body": "Are you kidding me? A horse-sized duck would instantly crush you!", "parentId": 34 },
-        { "id": 36, "body": "Well, that depends. Are we on water or land?", "parentId": 34 },
-        { "id": 37, "body": "Yeah, because in the water, the duck has the advantage. But on land, you could just step on its foot. That would probably put it out of commission.", "parentId": 34 },
-        { "id": 38, "body": "If we're on water I'd lose either way.", "parentId": 36 },
-        { "id": 39, "body": "Think again! Apparently ducks don't feel pain in their feet.", "parentId": 37 },
+        {
+          "id": 35,
+          "body": "Are you kidding me? A horse-sized duck would instantly crush you!",
+          "parentId": 34
+        },
+        {
+          "id": 36,
+          "body": "Well, that depends. Are we on water or land?",
+          "parentId": 34
+        },
+        {
+          "id": 37,
+          "body": "Yeah, because in the water, the duck has the advantage. But on land, you could just step on its foot. That would probably put it out of commission.",
+          "parentId": 34
+        },
+        {
+          "id": 38,
+          "body": "If we're on water I'd lose either way.",
+          "parentId": 36
+        },
+        {
+          "id": 39,
+          "body": "Think again! Apparently ducks don't feel pain in their feet.",
+          "parentId": 37
+        },
         {
           "id": 40,
           "body": "This is ridiculous!",
@@ -132,11 +152,23 @@
           "body": "I think I could train a horse-sized duck.",
           "parentId": null
         },
-        { "id": 44, "body": "It would probably make a pretty good pet.", "parentId": 43 },
-        { "id": 45, "body": "Have you considered the cost to feed that thing?", "parentId": null },
+        {
+          "id": 44,
+          "body": "It would probably make a pretty good pet.",
+          "parentId": 43
+        },
+        {
+          "id": 45,
+          "body": "Have you considered the cost to feed that thing?",
+          "parentId": null
+        },
         { "id": 46, "body": "Not at all", "parentId": null },
-        { "id": 47, "body": "I don't even know what dducks eat.", "parentId": null },
-        { "id": 48, "body": "Today I learned!", "parentId": 37 }
+        {
+          "id": 47,
+          "body": "I don't even know what dducks eat.",
+          "parentId": null
+        },
+        { "id": 48, "body": "Today I learned!", "parentId": 37 },
         { "id": 49, "body": "Let's end this here.", "parentId": null }
       ]
     }
